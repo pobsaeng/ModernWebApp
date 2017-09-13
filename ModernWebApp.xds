@@ -1,0 +1,82 @@
+{
+    "name": "ModernWebApp",
+    "settings": {
+        "cmd": {
+            "license": "commercial",
+            "cmdVersion": "6.5.1.240",
+            "frameworkVersion": "6.5.0.775"
+        },
+        "urlPrefixTemplate": "http://localhost:{port}/{path}",
+        "urlPrefix": "http://localhost:52297/",
+        "canvasControls": {
+            "viewportSize": {
+                "name": "iPhone",
+                "builtIn": true,
+                "height": 480,
+                "width": 320
+            },
+            "viewportOrientation": "portrait"
+        },
+        "exportPath": "",
+        "spacesToIndent": 4,
+        "sdkPath": "",
+        "lineEnding": "CRLF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "buildShouldOverwriteIndex": true,
+        "generateArchitectVersion": true,
+        "lastBuildSelection": {
+            "value": "webBuild",
+            "display": "Build web app",
+            "buildPlatform": false
+        }
+    },
+    "xdsVersion": "4.2.2",
+    "xdsBuild": 282,
+    "schemaVersion": 1,
+    "upgradeVersion": 310000000001,
+    "framework": "modern65",
+    "viewOrderMap": {
+        "view": [
+            "a2ff1a0c-19f2-4431-94ae-8d32a95a0910",
+            "c5740dfe-2118-42cb-962e-7035e30a25c3",
+            "42b0141c-42f5-41cc-92fc-0b64989ae2f9",
+            "edd6d0df-70e8-47f4-bbd7-9b09c0829c27",
+            "f785b841-f1d8-467b-a172-e38326cd1b9d",
+            "2991ceb9-d6df-462a-83c3-c61185a18b6f",
+            "7e562aa9-e8a1-44d6-93ee-2e133527abf1",
+            "3ffb92fd-9220-4f5a-95e5-8edfeddce25b",
+            "1e2202a3-f0c8-4e80-a3b3-9a485908bd61",
+            "ba77d9b0-e0e5-4bed-a72e-fae5088f03f2",
+            "bb8c0caa-d259-4f61-9f0c-eb62a8b96b7e",
+            "3afeeb48-df00-4f41-9e3a-e5e2bf56d867",
+            "a8603122-85bf-4a43-b61b-dae6dc46be4f",
+            "467f63c8-f171-419a-9aec-b606c058e67b",
+            "f5a06c4a-2edb-48ad-871b-9a0212b6ef4e",
+            "1793f063-ec93-4590-ab2c-2e0e745be307",
+            "4bc39378-4bd3-4693-99f8-a410e879000f",
+            "3c2615d4-075a-4f01-a274-882920ac8fcd",
+            "9e393aba-8eab-4a6c-93fc-c97762717692",
+            "bcd9952e-171e-4ea8-bece-1245cb42b3d4",
+            "1b8131fb-dea8-491a-91e4-f9ee224fd46b"
+        ],
+        "store": [
+            "c7c25d02-0b31-449d-ac19-6230b41092db"
+        ],
+        "controller": [
+            "76ec11ec-04a3-4c08-a993-bddf3b5d18e1"
+        ],
+        "model": [
+            "339203e2-c0c0-4fcd-8569-9b971e0c9c73"
+        ],
+        "resource": [
+            "a6f73396-1d38-4e69-b716-e161c7be941e",
+            "f339deda-e8aa-407d-9e97-9edf3a6d04c7",
+            "6625ae4b-2a4d-4478-8a2a-5390da1fd03e",
+            "2942f51b-633d-499d-9943-09d6f10fb8e6"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}
